@@ -1,4 +1,4 @@
-# flaticon.com autocrediter
+# flaticon.com autocrediter :star:
 
 ## Description
 Avoid many cut/paste to credit author when your are downloading icons on flaticon.com.
@@ -13,6 +13,7 @@ Avoid many cut/paste to credit author when your are downloading icons on flatico
 
 ## Prerequisites
 + [pip](https://pypi.org/project/pip/)
++ Extension [cjs](https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija?hl=en)
 
 ## Install
 + SERVER :
