@@ -10,7 +10,8 @@ Avoid many cut/paste to credit author when your are downloading icons on flatico
 + SERVER :
 > Python runs web server to catch author's information and save it in **credited_authors.json** file.
 
-## Dependencies
+
+## Prerequisites
 + [pip](https://pypi.org/project/pip/)
 
 ## Install
