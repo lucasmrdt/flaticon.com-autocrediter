@@ -6,11 +6,11 @@ Avoid many cut/paste to credit author when your are downloading icons on flatico
 ## How does it works ?
 + CLIENT SIDE
 
-...Javascript sends a fetch request to **localhost** with author's information when user click on **DOWNLOAD**.
+> Javascript sends a fetch request to **localhost** with author's information when user click on **DOWNLOAD**.
 
 + SERVER SIDE
 
-...Python runs web server to catch author's information and save it in **credited_authors.json** file.
+> Python runs web server to catch author's information and save it in **credited_authors.json** file.
 
 ## Dependencies
 + [pip](https://pypi.org/project/pip/)
