@@ -27,8 +27,8 @@ pip install --user -r requirements.txt
   * Install an Javascript injector [chrome](https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija?hl=en).
   * Go on [flaticon.com](https://www.flaticon.com/).
   * Open your Javascript Injector.
-  * Enable **JQUERY**.
-  * Cut and paste source code from **client/autocrediter-extension.js** on your Javascript Injector.
+  * Inject [JQUERY](https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js).
+  * Cut and paste source code from **src/client/autocrediter-extension.js** on **cjs**.
   * **Save it**.
 
 ## Run
